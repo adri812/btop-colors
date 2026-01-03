@@ -1,4 +1,4 @@
-To change the colors you can manually, do it by going to themes -> custom.theme
+To change the do it by going to themes -> custom.theme
 You can copy and paste it in "editor" ~/.config/btop/themes/custom.theme
 The file will be empty so just copy it in
 
