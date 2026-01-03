@@ -1,0 +1,44 @@
+# Main Ui
+theme[main_bg]="#11100f"
+theme[main_fg]="#bead8f"
+theme[title]="#bead8f"
+theme[hi_fg]="#cf7a8a"
+theme[selected_bg]="#693945"
+theme[selected_fg]="#bead8f"
+theme[inactive_fg]="#693945"
+
+# Box outlines, ALL BEIGE
+theme[cpu_box]="#bead8f"
+theme[mem_box]="#bead8f"
+theme[net_box]="#bead8f"
+theme[proc_box]="#bead8f"
+theme[div_line]="#693945"
+
+# cpu & temps
+theme[cpu_start]="#693945"
+theme[cpu_mid]="#9e5668"
+theme[cpu_end]="#bead8f"
+theme[temp_start]="#693945"
+theme[temp_mid]="#9e5668"
+theme[temp_end]="#bead8f"
+
+# storage and ram. I cant change the free storage its green...
+theme[free]="#bead8f"       
+theme[available]="#bead8f"  
+theme[used]="#693945"       
+theme[cached]="#9e5668"     
+theme[mem_start]="#693945"
+theme[mem_mid]="#9e5668"
+theme[mem_end]="#bead8f"
+
+# Network tab, its broken idk 
+theme[net_start]="#693945"
+theme[net_mid]="#9e5668"
+theme[net_end]="#bead8f"
+theme[download]="#bead8f"   
+theme[upload]="#cf7a8a"     
+
+# misc
+theme[proc_misc]="#bead8f"
+theme[canvas_bg]="#11100f"
+theme[meter_bg]="#11100f"
